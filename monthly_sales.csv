@@ -1,0 +1,385 @@
+pizza_name,month,total_sales
+The Barbecue Chicken Pizza,2015-01,3995.25
+The Barbecue Chicken Pizza,2015-02,3649.75
+The Barbecue Chicken Pizza,2015-03,4108.25
+The Barbecue Chicken Pizza,2015-04,4013.5
+The Barbecue Chicken Pizza,2015-05,4162.5
+The Barbecue Chicken Pizza,2015-06,3602.5
+The Barbecue Chicken Pizza,2015-07,3859.25
+The Barbecue Chicken Pizza,2015-08,3450.25
+The Barbecue Chicken Pizza,2015-09,3488.5
+The Barbecue Chicken Pizza,2015-10,3271.5
+The Barbecue Chicken Pizza,2015-11,4242.25
+The Barbecue Chicken Pizza,2015-12,3236.5
+The Big Meat Pizza,2015-01,1896.0
+The Big Meat Pizza,2015-02,1980.0
+The Big Meat Pizza,2015-03,2424.0
+The Big Meat Pizza,2015-04,1716.0
+The Big Meat Pizza,2015-05,2712.0
+The Big Meat Pizza,2015-06,1836.0
+The Big Meat Pizza,2015-07,2508.0
+The Big Meat Pizza,2015-08,2208.0
+The Big Meat Pizza,2015-09,1848.0
+The Big Meat Pizza,2015-10,2028.0
+The Big Meat Pizza,2015-11,2352.0
+The Big Meat Pizza,2015-12,2172.0
+The Brie Carre Pizza,2015-01,875.05
+The Brie Carre Pizza,2015-02,1040.6
+The Brie Carre Pizza,2015-03,1135.1999999999998
+The Brie Carre Pizza,2015-04,804.0999999999999
+The Brie Carre Pizza,2015-05,1182.5
+The Brie Carre Pizza,2015-06,946.0
+The Brie Carre Pizza,2015-07,1135.1999999999998
+The Brie Carre Pizza,2015-08,1016.9499999999999
+The Brie Carre Pizza,2015-09,1206.1499999999999
+The Brie Carre Pizza,2015-10,851.4
+The Brie Carre Pizza,2015-11,993.3
+The Brie Carre Pizza,2015-12,875.05
+The Calabrese Pizza,2015-01,1197.25
+The Calabrese Pizza,2015-02,1494.0
+The Calabrese Pizza,2015-03,1181.25
+The Calabrese Pizza,2015-04,1380.75
+The Calabrese Pizza,2015-05,1393.0
+The Calabrese Pizza,2015-06,1559.0
+The Calabrese Pizza,2015-07,1461.25
+The Calabrese Pizza,2015-08,1327.25
+The Calabrese Pizza,2015-09,1104.5
+The Calabrese Pizza,2015-10,1372.25
+The Calabrese Pizza,2015-11,1628.0
+The Calabrese Pizza,2015-12,1176.75
+The California Chicken Pizza,2015-01,3631.0
+The California Chicken Pizza,2015-02,3695.0
+The California Chicken Pizza,2015-03,3773.5
+The California Chicken Pizza,2015-04,3317.0
+The California Chicken Pizza,2015-05,3703.25
+The California Chicken Pizza,2015-06,4103.5
+The California Chicken Pizza,2015-07,3394.25
+The California Chicken Pizza,2015-08,4186.25
+The California Chicken Pizza,2015-09,3479.75
+The California Chicken Pizza,2015-10,3001.0
+The California Chicken Pizza,2015-11,3943.25
+The California Chicken Pizza,2015-12,3792.25
+The Chicken Alfredo Pizza,2015-01,1565.0
+The Chicken Alfredo Pizza,2015-02,1267.5
+The Chicken Alfredo Pizza,2015-03,1779.0
+The Chicken Alfredo Pizza,2015-04,1259.5
+The Chicken Alfredo Pizza,2015-05,1439.75
+The Chicken Alfredo Pizza,2015-06,1410.25
+The Chicken Alfredo Pizza,2015-07,1222.75
+The Chicken Alfredo Pizza,2015-08,1402.25
+The Chicken Alfredo Pizza,2015-09,1467.75
+The Chicken Alfredo Pizza,2015-10,1431.0
+The Chicken Alfredo Pizza,2015-11,1625.75
+The Chicken Alfredo Pizza,2015-12,1272.25
+The Chicken Pesto Pizza,2015-01,1379.25
+The Chicken Pesto Pizza,2015-02,1459.0
+The Chicken Pesto Pizza,2015-03,1340.75
+The Chicken Pesto Pizza,2015-04,1592.25
+The Chicken Pesto Pizza,2015-05,1438.25
+The Chicken Pesto Pizza,2015-06,1455.75
+The Chicken Pesto Pizza,2015-07,1427.75
+The Chicken Pesto Pizza,2015-08,1406.25
+The Chicken Pesto Pizza,2015-09,1524.5
+The Chicken Pesto Pizza,2015-10,1337.0
+The Chicken Pesto Pizza,2015-11,1401.5
+The Chicken Pesto Pizza,2015-12,1373.5
+The Classic Deluxe Pizza,2015-01,2973.5
+The Classic Deluxe Pizza,2015-02,2705.0
+The Classic Deluxe Pizza,2015-03,3272.0
+The Classic Deluxe Pizza,2015-04,3406.5
+The Classic Deluxe Pizza,2015-05,3540.0
+The Classic Deluxe Pizza,2015-06,3158.0
+The Classic Deluxe Pizza,2015-07,3738.5
+The Classic Deluxe Pizza,2015-08,3267.0
+The Classic Deluxe Pizza,2015-09,3506.5
+The Classic Deluxe Pizza,2015-10,3171.5
+The Classic Deluxe Pizza,2015-11,3403.5
+The Classic Deluxe Pizza,2015-12,3224.5
+The Five Cheese Pizza,2015-01,2701.0
+The Five Cheese Pizza,2015-02,2127.5
+The Five Cheese Pizza,2015-03,2460.5
+The Five Cheese Pizza,2015-04,2090.5
+The Five Cheese Pizza,2015-05,2516.0
+The Five Cheese Pizza,2015-06,2553.0
+The Five Cheese Pizza,2015-07,2756.5
+The Five Cheese Pizza,2015-08,2127.5
+The Five Cheese Pizza,2015-09,2275.5
+The Five Cheese Pizza,2015-10,2349.5
+The Five Cheese Pizza,2015-11,2349.5
+The Five Cheese Pizza,2015-12,1646.5
+The Four Cheese Pizza,2015-01,2887.0499999999997
+The Four Cheese Pizza,2015-02,2979.2999999999997
+The Four Cheese Pizza,2015-03,2847.25
+The Four Cheese Pizza,2015-04,2960.1
+The Four Cheese Pizza,2015-05,3189.7
+The Four Cheese Pizza,2015-06,2587.6
+The Four Cheese Pizza,2015-07,2930.6
+The Four Cheese Pizza,2015-08,2410.0499999999997
+The Four Cheese Pizza,2015-09,2553.65
+The Four Cheese Pizza,2015-10,3144.75
+The Four Cheese Pizza,2015-11,2644.65
+The Four Cheese Pizza,2015-12,2940.2
+The Greek Pizza,2015-01,2571.4
+The Greek Pizza,2015-02,2136.35
+The Greek Pizza,2015-03,2189.85
+The Greek Pizza,2015-04,3214.3
+The Greek Pizza,2015-05,2488.35
+The Greek Pizza,2015-06,2496.9
+The Greek Pizza,2015-07,2425.0
+The Greek Pizza,2015-08,2268.4
+The Greek Pizza,2015-09,2158.35
+The Greek Pizza,2015-10,2229.9
+The Greek Pizza,2015-11,2599.85
+The Greek Pizza,2015-12,2243.45
+The Green Garden Pizza,2015-01,1097.5
+The Green Garden Pizza,2015-02,1226.5
+The Green Garden Pizza,2015-03,1294.75
+The Green Garden Pizza,2015-04,1145.75
+The Green Garden Pizza,2015-05,1282.25
+The Green Garden Pizza,2015-06,1254.5
+The Green Garden Pizza,2015-07,1498.5
+The Green Garden Pizza,2015-08,1174.0
+The Green Garden Pizza,2015-09,1278.0
+The Green Garden Pizza,2015-10,1181.5
+The Green Garden Pizza,2015-11,836.5
+The Green Garden Pizza,2015-12,958.5
+The Hawaiian Pizza,2015-01,2517.75
+The Hawaiian Pizza,2015-02,2734.5
+The Hawaiian Pizza,2015-03,3012.0
+The Hawaiian Pizza,2015-04,3023.25
+The Hawaiian Pizza,2015-05,2834.5
+The Hawaiian Pizza,2015-06,2650.75
+The Hawaiian Pizza,2015-07,2754.75
+The Hawaiian Pizza,2015-08,2786.75
+The Hawaiian Pizza,2015-09,2642.75
+The Hawaiian Pizza,2015-10,2688.75
+The Hawaiian Pizza,2015-11,3179.75
+The Hawaiian Pizza,2015-12,2903.75
+The Italian Capocollo Pizza,2015-01,2308.0
+The Italian Capocollo Pizza,2015-02,2079.0
+The Italian Capocollo Pizza,2015-03,2108.5
+The Italian Capocollo Pizza,2015-04,2424.0
+The Italian Capocollo Pizza,2015-05,2132.5
+The Italian Capocollo Pizza,2015-06,2288.5
+The Italian Capocollo Pizza,2015-07,2333.5
+The Italian Capocollo Pizza,2015-08,2125.5
+The Italian Capocollo Pizza,2015-09,2145.0
+The Italian Capocollo Pizza,2015-10,1854.0
+The Italian Capocollo Pizza,2015-11,1990.5
+The Italian Capocollo Pizza,2015-12,2251.0
+The Italian Supreme Pizza,2015-01,2987.75
+The Italian Supreme Pizza,2015-02,2588.25
+The Italian Supreme Pizza,2015-03,2805.5
+The Italian Supreme Pizza,2015-04,3261.5
+The Italian Supreme Pizza,2015-05,3349.25
+The Italian Supreme Pizza,2015-06,3024.75
+The Italian Supreme Pizza,2015-07,2615.0
+The Italian Supreme Pizza,2015-08,3210.0
+The Italian Supreme Pizza,2015-09,2546.75
+The Italian Supreme Pizza,2015-10,2479.5
+The Italian Supreme Pizza,2015-11,3150.0
+The Italian Supreme Pizza,2015-12,2699.5
+The Italian Vegetables Pizza,2015-01,1653.5
+The Italian Vegetables Pizza,2015-02,1396.5
+The Italian Vegetables Pizza,2015-03,1422.75
+The Italian Vegetables Pizza,2015-04,1455.75
+The Italian Vegetables Pizza,2015-05,1425.25
+The Italian Vegetables Pizza,2015-06,1184.75
+The Italian Vegetables Pizza,2015-07,1235.5
+The Italian Vegetables Pizza,2015-08,1295.5
+The Italian Vegetables Pizza,2015-09,1236.0
+The Italian Vegetables Pizza,2015-10,1337.5
+The Italian Vegetables Pizza,2015-11,1170.0
+The Italian Vegetables Pizza,2015-12,1383.25
+The Mediterranean Pizza,2015-01,1220.0
+The Mediterranean Pizza,2015-02,1107.5
+The Mediterranean Pizza,2015-03,1341.5
+The Mediterranean Pizza,2015-04,1278.0
+The Mediterranean Pizza,2015-05,1540.5
+The Mediterranean Pizza,2015-06,1214.75
+The Mediterranean Pizza,2015-07,1453.25
+The Mediterranean Pizza,2015-08,1357.75
+The Mediterranean Pizza,2015-09,1300.25
+The Mediterranean Pizza,2015-10,1073.75
+The Mediterranean Pizza,2015-11,1504.75
+The Mediterranean Pizza,2015-12,1363.5
+The Mexicana Pizza,2015-01,2479.75
+The Mexicana Pizza,2015-02,2020.0
+The Mexicana Pizza,2015-03,2534.25
+The Mexicana Pizza,2015-04,2477.0
+The Mexicana Pizza,2015-05,1920.25
+The Mexicana Pizza,2015-06,2343.75
+The Mexicana Pizza,2015-07,2764.75
+The Mexicana Pizza,2015-08,2315.0
+The Mexicana Pizza,2015-09,1807.0
+The Mexicana Pizza,2015-10,2129.25
+The Mexicana Pizza,2015-11,2913.0
+The Mexicana Pizza,2015-12,2152.25
+The Napolitana Pizza,2015-01,2347.5
+The Napolitana Pizza,2015-02,1910.5
+The Napolitana Pizza,2015-03,1815.0
+The Napolitana Pizza,2015-04,1953.5
+The Napolitana Pizza,2015-05,1878.5
+The Napolitana Pizza,2015-06,2397.5
+The Napolitana Pizza,2015-07,2023.5
+The Napolitana Pizza,2015-08,2318.5
+The Napolitana Pizza,2015-09,2027.5
+The Napolitana Pizza,2015-10,2121.0
+The Napolitana Pizza,2015-11,2035.5
+The Napolitana Pizza,2015-12,1731.5
+The Pepper Salami Pizza,2015-01,2458.25
+The Pepper Salami Pizza,2015-02,1903.75
+The Pepper Salami Pizza,2015-03,2333.5
+The Pepper Salami Pizza,2015-04,2503.75
+The Pepper Salami Pizza,2015-05,2081.0
+The Pepper Salami Pizza,2015-06,2374.5
+The Pepper Salami Pizza,2015-07,2296.5
+The Pepper Salami Pizza,2015-08,1977.25
+The Pepper Salami Pizza,2015-09,1857.75
+The Pepper Salami Pizza,2015-10,2321.25
+The Pepper Salami Pizza,2015-11,2252.0
+The Pepper Salami Pizza,2015-12,2065.5
+The Pepperoni Pizza,2015-01,3120.75
+The Pepperoni Pizza,2015-02,2637.75
+The Pepperoni Pizza,2015-03,2404.25
+The Pepperoni Pizza,2015-04,2237.75
+The Pepperoni Pizza,2015-05,3084.75
+The Pepperoni Pizza,2015-06,2105.25
+The Pepperoni Pizza,2015-07,2849.75
+The Pepperoni Pizza,2015-08,2743.25
+The Pepperoni Pizza,2015-09,2597.25
+The Pepperoni Pizza,2015-10,2671.0
+The Pepperoni Pizza,2015-11,2503.0
+The Pepperoni Pizza,2015-12,2479.0
+"The Pepperoni, Mushroom, and Peppers Pizza",2015-01,1457.0
+"The Pepperoni, Mushroom, and Peppers Pizza",2015-02,1639.0
+"The Pepperoni, Mushroom, and Peppers Pizza",2015-03,1615.0
+"The Pepperoni, Mushroom, and Peppers Pizza",2015-04,1548.0
+"The Pepperoni, Mushroom, and Peppers Pizza",2015-05,1716.0
+"The Pepperoni, Mushroom, and Peppers Pizza",2015-06,1808.0
+"The Pepperoni, Mushroom, and Peppers Pizza",2015-07,1733.0
+"The Pepperoni, Mushroom, and Peppers Pizza",2015-08,1843.0
+"The Pepperoni, Mushroom, and Peppers Pizza",2015-09,1778.5
+"The Pepperoni, Mushroom, and Peppers Pizza",2015-10,1503.0
+"The Pepperoni, Mushroom, and Peppers Pizza",2015-11,1234.5
+"The Pepperoni, Mushroom, and Peppers Pizza",2015-12,1414.5
+The Prosciutto and Arugula Pizza,2015-01,2259.5
+The Prosciutto and Arugula Pizza,2015-02,2105.25
+The Prosciutto and Arugula Pizza,2015-03,2170.25
+The Prosciutto and Arugula Pizza,2015-04,1847.25
+The Prosciutto and Arugula Pizza,2015-05,1952.5
+The Prosciutto and Arugula Pizza,2015-06,1909.75
+The Prosciutto and Arugula Pizza,2015-07,2286.25
+The Prosciutto and Arugula Pizza,2015-08,2072.0
+The Prosciutto and Arugula Pizza,2015-09,1970.75
+The Prosciutto and Arugula Pizza,2015-10,2499.25
+The Prosciutto and Arugula Pizza,2015-11,2233.75
+The Prosciutto and Arugula Pizza,2015-12,1955.25
+The Sicilian Pizza,2015-01,3142.25
+The Sicilian Pizza,2015-02,2812.0
+The Sicilian Pizza,2015-03,2621.75
+The Sicilian Pizza,2015-04,2581.25
+The Sicilian Pizza,2015-05,2563.5
+The Sicilian Pizza,2015-06,2856.75
+The Sicilian Pizza,2015-07,2546.75
+The Sicilian Pizza,2015-08,2653.5
+The Sicilian Pizza,2015-09,2333.5
+The Sicilian Pizza,2015-10,2783.5
+The Sicilian Pizza,2015-11,3083.0
+The Sicilian Pizza,2015-12,2661.25
+The Soppressata Pizza,2015-01,1323.5
+The Soppressata Pizza,2015-02,1289.25
+The Soppressata Pizza,2015-03,1335.0
+The Soppressata Pizza,2015-04,1638.5
+The Soppressata Pizza,2015-05,1546.5
+The Soppressata Pizza,2015-06,1568.0
+The Soppressata Pizza,2015-07,1517.5
+The Soppressata Pizza,2015-08,1335.0
+The Soppressata Pizza,2015-09,1107.25
+The Soppressata Pizza,2015-10,1530.0
+The Soppressata Pizza,2015-11,1243.75
+The Soppressata Pizza,2015-12,1157.5
+The Southwest Chicken Pizza,2015-01,2596.0
+The Southwest Chicken Pizza,2015-02,2887.25
+The Southwest Chicken Pizza,2015-03,3155.25
+The Southwest Chicken Pizza,2015-04,3179.25
+The Southwest Chicken Pizza,2015-05,2943.25
+The Southwest Chicken Pizza,2015-06,2617.5
+The Southwest Chicken Pizza,2015-07,3516.0
+The Southwest Chicken Pizza,2015-08,3177.5
+The Southwest Chicken Pizza,2015-09,3025.25
+The Southwest Chicken Pizza,2015-10,3015.75
+The Southwest Chicken Pizza,2015-11,3138.5
+The Southwest Chicken Pizza,2015-12,2702.25
+The Spicy Italian Pizza,2015-01,3027.5
+The Spicy Italian Pizza,2015-02,2712.25
+The Spicy Italian Pizza,2015-03,3272.25
+The Spicy Italian Pizza,2015-04,2949.25
+The Spicy Italian Pizza,2015-05,3563.75
+The Spicy Italian Pizza,2015-06,3143.75
+The Spicy Italian Pizza,2015-07,3724.0
+The Spicy Italian Pizza,2015-08,2820.5
+The Spicy Italian Pizza,2015-09,2414.0
+The Spicy Italian Pizza,2015-10,2823.25
+The Spicy Italian Pizza,2015-11,2999.5
+The Spicy Italian Pizza,2015-12,2783.25
+The Spinach Pesto Pizza,2015-01,1310.75
+The Spinach Pesto Pizza,2015-02,1269.0
+The Spinach Pesto Pizza,2015-03,1580.25
+The Spinach Pesto Pizza,2015-04,913.25
+The Spinach Pesto Pizza,2015-05,1601.25
+The Spinach Pesto Pizza,2015-06,1527.0
+The Spinach Pesto Pizza,2015-07,1369.75
+The Spinach Pesto Pizza,2015-08,1402.0
+The Spinach Pesto Pizza,2015-09,1409.25
+The Spinach Pesto Pizza,2015-10,953.75
+The Spinach Pesto Pizza,2015-11,1481.0
+The Spinach Pesto Pizza,2015-12,1194.25
+The Spinach Supreme Pizza,2015-01,1357.0
+The Spinach Supreme Pizza,2015-02,1356.0
+The Spinach Supreme Pizza,2015-03,1153.25
+The Spinach Supreme Pizza,2015-04,1509.5
+The Spinach Supreme Pizza,2015-05,1422.25
+The Spinach Supreme Pizza,2015-06,1381.75
+The Spinach Supreme Pizza,2015-07,1414.5
+The Spinach Supreme Pizza,2015-08,1308.0
+The Spinach Supreme Pizza,2015-09,1141.25
+The Spinach Supreme Pizza,2015-10,1207.0
+The Spinach Supreme Pizza,2015-11,1161.5
+The Spinach Supreme Pizza,2015-12,1173.25
+The Spinach and Feta Pizza,2015-01,2168.75
+The Spinach and Feta Pizza,2015-02,1727.25
+The Spinach and Feta Pizza,2015-03,2242.75
+The Spinach and Feta Pizza,2015-04,1950.75
+The Spinach and Feta Pizza,2015-05,2296.25
+The Spinach and Feta Pizza,2015-06,1881.0
+The Spinach and Feta Pizza,2015-07,2059.0
+The Spinach and Feta Pizza,2015-08,2359.5
+The Spinach and Feta Pizza,2015-09,1796.5
+The Spinach and Feta Pizza,2015-10,1435.0
+The Spinach and Feta Pizza,2015-11,1925.25
+The Spinach and Feta Pizza,2015-12,1929.25
+The Thai Chicken Pizza,2015-01,3740.25
+The Thai Chicken Pizza,2015-02,3117.75
+The Thai Chicken Pizza,2015-03,3936.25
+The Thai Chicken Pizza,2015-04,3911.0
+The Thai Chicken Pizza,2015-05,3848.75
+The Thai Chicken Pizza,2015-06,3787.5
+The Thai Chicken Pizza,2015-07,4397.75
+The Thai Chicken Pizza,2015-08,3389.0
+The Thai Chicken Pizza,2015-09,3902.25
+The Thai Chicken Pizza,2015-10,3694.75
+The Thai Chicken Pizza,2015-11,4017.0
+The Thai Chicken Pizza,2015-12,3937.5
+The Vegetables + Vegetables Pizza,2015-01,2289.5
+The Vegetables + Vegetables Pizza,2015-02,2355.75
+The Vegetables + Vegetables Pizza,2015-03,2201.75
+The Vegetables + Vegetables Pizza,2015-04,2095.25
+The Vegetables + Vegetables Pizza,2015-05,1719.0
+The Vegetables + Vegetables Pizza,2015-06,2118.5
+The Vegetables + Vegetables Pizza,2015-07,2402.25
+The Vegetables + Vegetables Pizza,2015-08,1987.5
+The Vegetables + Vegetables Pizza,2015-09,1763.75
+The Vegetables + Vegetables Pizza,2015-10,1608.75
+The Vegetables + Vegetables Pizza,2015-11,1936.25
+The Vegetables + Vegetables Pizza,2015-12,2386.5
